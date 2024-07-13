@@ -1,0 +1,4 @@
+Name : 66
+ID   : 66
+CGPA : 66
+Favorite Course : 66
